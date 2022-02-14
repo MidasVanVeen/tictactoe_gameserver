@@ -1,3 +1,6 @@
+# Author: Midas
+# back-end code voor de online boter kaas en eieren game
+
 from websockets import serve
 import asyncio
 import json
