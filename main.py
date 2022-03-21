@@ -73,6 +73,7 @@ async def handle_move(args):
                         if draw:
                             game[4][0] = True
                             game[4][1] = "Niemand"
+                print(game)
             print(game)
 
 async def clear_game(game):
